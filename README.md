@@ -1,2 +1,2 @@
 # gnuphone
-GNU/Liunx Freedom Software and Hardware Smartphone
+GNU/Linux Freedom Software and Hardware Smartphone
