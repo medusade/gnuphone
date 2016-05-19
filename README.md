@@ -1,2 +1,3 @@
+![Alt text](gnuphone-image-small.jpg?raw=true)
 # gnuphone
-![Alt text](gnuphone-image-small.jpg?raw=true) GNU/Linux Freedom Software and Hardware Smartphone
+GNU/Linux Freedom Software and Hardware Smartphone
